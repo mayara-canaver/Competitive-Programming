@@ -1,0 +1,1 @@
+SELECT name From customers WHERE state = 'RS';
