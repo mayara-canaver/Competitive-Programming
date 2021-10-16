@@ -16,6 +16,7 @@ Below I list the languages that I used to solve the problems:
     <li>Golang</li>
     <li>Python 3</li>
     <li>SQL</li>
+    <li>R</li>
   </ul>
   
 Each folder contains the solved problems' codes!
@@ -39,6 +40,7 @@ A seguir listo as linguagens na qual realizei os exercícios:
     <li>Golang</li>
     <li>Python 3</li>
     <li>SQL</li>
+    <li>R</li>
   </ul>
   
 Cada pasta contém os códigos dos problemas resolvidos!
