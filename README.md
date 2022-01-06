@@ -9,7 +9,7 @@ Uri is a plataform that gathers many competitive programming exercises that can 
 <br>
 Below I list the languages that I used to solve the problems:
 
-<h2>Requirements</h2>
+<h2>Languages</h2>
   <ul>
     <li>C</li>
     <li>C++</li>
@@ -22,6 +22,20 @@ Below I list the languages that I used to solve the problems:
 Each folder contains the solved problems' codes!
 <br><br>
 
+<h2>Code Signal</h2>
+
+Problems' repository from Uri Online Judge
+<br>
+Link -> https://app.codesignal.com/profile/mayara-canav
+
+<br>
+
+<h2>Languages</h2>
+  <ul>
+    <li>Python 3</li>
+  </ul>
+  
+<br><br>
 <h1>PT/br</h1>  
 <h2>URI Online Judge</h2>
 
@@ -33,7 +47,7 @@ O Uri é uma plataforma que junta diversos exercícios de programação competit
 <br>
 A seguir listo as linguagens na qual realizei os exercícios:
 
-<h2>Pré-Requisitos</h2>
+<h2>Linguagens</h2>
   <ul>
     <li>C</li>
     <li>C++</li>
@@ -44,3 +58,18 @@ A seguir listo as linguagens na qual realizei os exercícios:
   </ul>
   
 Cada pasta contém os códigos dos problemas resolvidos!
+
+<h2>Code Signal</h2>
+
+Repositório dos problemas do Code Signal
+<br>
+Link -> https://app.codesignal.com/profile/mayara-canav
+
+<br>
+
+<h2>Linguagens</h2>
+  <ul>
+    <li>Python 3</li>
+  </ul>
+  
+<br><br>
