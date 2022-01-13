@@ -40,6 +40,19 @@ Link -> https://app.codesignal.com/profile/mayara-canav
   
 <br><br>
 
+<h3>Code Wars</h3>
+
+Problems' repository from Code Wars
+
+Link -> https://www.codewars.com/users/mayara-canaver
+
+<h4>Languages</h4>
+  <ul>
+    <li>Python 3</li>
+  </ul>
+  
+<br><br>
+
 <h1>PT/br</h1>  
 <h2>Geral</h2>
   
@@ -74,6 +87,19 @@ Cada pasta contém os códigos dos problemas resolvidos!
 Repositório dos problemas do Code Signal
 <br>
 Link -> https://app.codesignal.com/profile/mayara-canav
+
+<h4>Linguagens</h4>
+  <ul>
+    <li>Python 3</li>
+  </ul>
+  
+<br><br>
+
+<h3>Code Wars</h3>
+
+Repositório dos problemas do Code Wars
+<br>
+Link -> https://www.codewars.com/users/mayara-canaver
 
 <h4>Linguagens</h4>
   <ul>
