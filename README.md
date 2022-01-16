@@ -53,6 +53,19 @@ Link -> https://www.codewars.com/users/mayara-canaver
   
 <br><br>
 
+<h3>Hacker Rank</h3>
+
+Problems' repository from Hacker Rank
+
+Link -> https://www.hackerrank.com/mayaracanaver
+
+<h4>Languages</h4>
+  <ul>
+    <li>Python 3</li>
+  </ul>  
+  
+<br><br>
+
 <h1>PT/br</h1>  
 <h2>Geral</h2>
   
@@ -100,6 +113,19 @@ Link -> https://app.codesignal.com/profile/mayara-canav
 Repositório dos problemas do Code Wars
 <br>
 Link -> https://www.codewars.com/users/mayara-canaver
+
+<h4>Linguagens</h4>
+  <ul>
+    <li>Python 3</li>
+  </ul>
+  
+<br><br>
+
+<h3>Hacker Rank</h3>
+
+Repositório dos problemas do Hacker Rank
+<br>
+Link -> https://www.hackerrank.com/mayaracanaver
 
 <h4>Linguagens</h4>
   <ul>
