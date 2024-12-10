@@ -32,17 +32,3 @@ My solutions are provided in the following programming languages:
 ### Repository Structure
 
 The repository is organized into folders, each corresponding to a specific problem category on the Beecrowd platform. Within each category folder, you will find individual problem solutions implemented in different programming languages.
-
-### Contributing
-
-Feel free to contribute to this repository by adding new solutions, improving existing ones, or suggesting enhancements.
-
-### Why this repository?
-
-- Learn from others: Explore different approaches to solving the same problem.
-- Practice: Reinforce your understanding of algorithms and data structures.
-- Prepare for coding interviews: Familiarize yourself with common programming interview questions.
-
-### License
-
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html) file for details.
